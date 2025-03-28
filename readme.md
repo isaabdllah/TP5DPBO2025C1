@@ -2,7 +2,7 @@
 # README - Program Data Mahasiswa
 
 ## Janji
-Saya Muhammad Isa Abdullah dengan NIM 2303508 mengerjakan Tugas Praktikum 4 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+Saya Muhammad Isa Abdullah dengan NIM 2303508 mengerjakan Tugas Praktikum 5 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 ### Struktur Kode
 
